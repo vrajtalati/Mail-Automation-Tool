@@ -1,0 +1,1 @@
+{"version":3,"file":"outlookRoutes.js","sourceRoot":"","sources":["../../src/routes/outlookRoutes.ts"],"names":[],"mappings":";;AAAA,qCAAiC;AACjC,wEAAuF;AAEvF,MAAM,MAAM,GAAG,IAAA,gBAAM,GAAE,CAAC;AAExB,MAAM,CAAC,GAAG,CAAC,OAAO,EAAE,2BAAO,CAAC,CAAC;AAC7B,MAAM,CAAC,GAAG,CAAC,WAAW,EAAE,kCAAc,CAAC,CAAC;AACxC,MAAM,CAAC,GAAG,CAAC,SAAS,EAAE,8BAAU,CAAC,CAAC;AAElC,kBAAe,MAAM,CAAC"}

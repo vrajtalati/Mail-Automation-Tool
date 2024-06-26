@@ -1,0 +1,1 @@
+{"version":3,"file":"gmailRoutes.js","sourceRoot":"","sources":["../../src/routes/gmailRoutes.ts"],"names":[],"mappings":";;AAAA,qCAAiC;AACjC,oEAAqF;AAErF,MAAM,MAAM,GAAG,IAAA,gBAAM,GAAE,CAAC;AAExB,MAAM,CAAC,GAAG,CAAC,OAAO,EAAE,yBAAO,CAAC,CAAC;AAC7B,MAAM,CAAC,GAAG,CAAC,WAAW,EAAE,gCAAc,CAAC,CAAC;AACxC,MAAM,CAAC,GAAG,CAAC,SAAS,EAAE,4BAAU,CAAC,CAAC;AAElC,kBAAe,MAAM,CAAC"}
